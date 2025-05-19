@@ -17,6 +17,8 @@ We tested the pipeline on several datasets, which are available here:
 - [Reuters](https://www.kaggle.com/datasets/nltkdata/reuters)
 - [Newsgoups](https://huggingface.co/datasets/SetFit/20_newsgroups)
 - [Wikipedia](https://github.com/D2CS-sub/wiki-crawler)
+- [Posts](https://github.com/D2CS-sub/D2CS/blob/main/posts_1k.csv)
+- [V100]()
 
 
 ## Table of Contents
