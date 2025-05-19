@@ -12,6 +12,12 @@ Our method is as follows:
 
 Our python package contains a full pipeline that performs the above operations (1-5), or alternatively perform specific operations individually.
 
+## Data
+We tested the pipeline on several datasets, which are available here:
+- [Reuters](https://www.kaggle.com/datasets/nltkdata/reuters)
+- [Newsgoups](https://huggingface.co/datasets/SetFit/20_newsgroups)
+- [Wikipedia](https://github.com/D2CS-sub/wiki-crawler)
+
 
 ## Table of Contents
 
